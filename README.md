@@ -14,7 +14,7 @@ A passionate QA Automation Tester specializing in Java and Selenium. I'm dedicat
 ## Connect with me
 
 * ![https://www.linkedin.com/in/harrish-a-429400209/](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-* ![https://github.com/Harrish01022003](https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white)
+* ![https://github.com/Harrish01022003](https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white)(https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif)
 
 ## Let's collaborate!
 
