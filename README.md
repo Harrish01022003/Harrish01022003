@@ -4,9 +4,9 @@ A passionate QA Automation Tester specializing in Java and Selenium. I'm dedicat
 
  ## Skills
 
-* **Languages:** Java
+* **Languages:** Java, Python
 * **Frameworks/Libraries:** Selenium WebDriver, TestNG, Cucumber
-* **Tools:** Git, Maven, Jira]
+* **Tools:** Git, Maven, Jira
 * **Testing Types:** Functional Testing, Regression Testing, UI Testing
 * **Methodologies:** Agile, Scrum
 
