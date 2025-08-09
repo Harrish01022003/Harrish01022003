@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Harrish A
 
 A passionate QA Automation Tester specializing in Java and Selenium. I'm dedicated to ensuring software quality through robust and efficient test automation.  I believe in continuous learning and improvement, always seeking ways to enhance testing processes and deliver high-quality products.
-![QA Automation Banner](https://i.imgur.com/xD8wKJw.png)
+
 ## 🚀 Skills & Expertise  
 
 **Languages:**  
